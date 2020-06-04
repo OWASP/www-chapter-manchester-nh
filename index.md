@@ -5,7 +5,7 @@ title: OWASP Nashua
 tags: nashua
 level: 0
 
-region: United States
+region: North America
 
 ---
 
