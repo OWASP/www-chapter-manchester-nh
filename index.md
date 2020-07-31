@@ -6,6 +6,9 @@ tags: nashua
 level: 0
 
 region: North America
+meetup-group: OWASP-Nashua-Chapter
+country: USA
+postal-code: 3060
 
 ---
 
