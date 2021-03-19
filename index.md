@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Nashua
+title: OWASP Manchester NH
 tags: manchester
 level: 0
 
