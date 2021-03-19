@@ -1,6 +1,6 @@
 ### Chapter Information
-* Nashua, New Hampshire
+* Manchester, New Hampshire
 
 ### Social Links
-* [Meetup](https://www.meetup.com/OWASP-Nashua-Chapter/)
+* [Meetup](https://www.meetup.com/OWASP-Manchester-NH/)
 
